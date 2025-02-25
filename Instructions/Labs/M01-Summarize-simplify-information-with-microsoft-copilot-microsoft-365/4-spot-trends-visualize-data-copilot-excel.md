@@ -15,7 +15,7 @@
 
 1. حدد  **OK**.
 
-![لقطة شاشة للوحة Copilot في Excel عند فتحها لأول مرة.](../media/copilot-pane-Excel.png)
+![لقطة شاشة للوحة Copilot في Excel عند فتحها لأول مرة.](../media/copilot-pane-excel.png)
 
 ## دعونا نبدأ في الصياغة
 

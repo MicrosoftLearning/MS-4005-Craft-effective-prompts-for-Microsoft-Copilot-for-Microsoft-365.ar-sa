@@ -1,10 +1,12 @@
+# الملخص
+
 في هذه الوحدة، تعرفت على Microsoft 365 Copilot في تطبيقات Microsoft 365 المختلفة مثل Word و PowerPoint و Excel و Teams و Outlook و Chat. Copilot هي أداة قائمة على تكنولوجيا الذكاء الاصطناعي تساعد في مهام مثل إنشاء الملخصات والبحث عن معلومات محددة وإنشاء الأفكار والجداول أو القوائم وتحليل البيانات. لصياغة مطالبة فعّالة من Copilot تؤدي إلى النتائج المرجوة، من المهم تقديم **أهداف** و**سياق** و**مصادر** و**توقعات** واضحة في مطالباتك.
 
 أهم ما يمكن تعلمه من هذه الوحدة هو أن Microsoft 365 Copilot هي أداة قيّمة لتحسين الإنتاجية والكفاءة في تطبيقات Microsoft المختلفة. عندما تقوم بصياغة إرشادات فعّالة منذ البداية، يمكن لـ Copilot تقديم ردود دقيقة وذات صلة لاستفساراتك ومساعدتك في تحقيق أهدافك.
 
 ## الموارد الرئيسية
 
-- [مرحبًا بك في Copilot في Word](https://support.microsoft.com/en-us/office/welcome-to-copilot-in-word-2135e85f-a467-463b-b2f0-c51a46d625d1)
+- [مرحبًا بك في Copilot في Word](https://support.microsoft.com/office/welcome-to-copilot-in-word-2135e85f-a467-463b-b2f0-c51a46d625d1)
 
 - [مرحبًا بك في Copilot في PowerPoint](https://support.microsoft.com/office/welcome-to-copilot-in-powerpoint-57133c75-24c0-4519-8096-d0dadf25fb8d)
 

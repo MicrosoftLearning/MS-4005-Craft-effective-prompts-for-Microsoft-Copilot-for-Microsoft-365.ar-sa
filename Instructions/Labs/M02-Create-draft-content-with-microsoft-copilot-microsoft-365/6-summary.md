@@ -1,4 +1,6 @@
-في هذه الوحدة، تعلمت كيفية استخدام Copilot في تطبيقات Microsoft المختلفة مثل Word و PowerPoint و Outlook و Microsoft 365 Chat. في Word، يمكنك فتح جزء Copilot من خلال علامة التبويب "الصفحة الرئيسية" في الشريط أو البدء في الكتابة مباشرة في المستند لإنشاء محتوى جديد. في PowerPoint، يساعدك Copilot في إنشاء الشرائح وتصميمها وتنسيقها عن طريق كتابة محتوى العرض التقديمي الخاص بك. في Outlook، يساعد Copilot في إدارة البريد الوارد وكتابة رسائل البريد الإلكتروني من خلال صياغة رسائل البريد الإلكتروني بسرعة وتلخيص سلاسل البريد الإلكتروني الطويلة. وأخيرًا، يتكامل Microsoft 365 Business Chat مع بيانات العمل والتطبيقات لديك لتعزيز الإبداع والإنتاجية وتطوير المهارات.
+# الملخص
+
+في هذه الوحدة، تعلمت كيفية استخدام Copilot في تطبيقات Microsoft المختلفة مثل Word و PowerPoint و Outlook و Microsoft 365 Chat. في Word، يمكنك فتح جزء Copilot من خلال علامة التبويب "الصفحة الرئيسية" في الشريط أو البدء في الكتابة مباشرة في المستند لإنشاء محتوى جديد. في PowerPoint، يساعدك Copilot في إنشاء الشرائح وتصميمها وتنسيقها عن طريق كتابة محتوى العرض التقديمي الخاص بك. في Outlook، يساعد Copilot في إدارة البريد الوارد وكتابة رسائل البريد الإلكتروني من خلال صياغة رسائل البريد الإلكتروني بسرعة وتلخيص سلاسل البريد الإلكتروني الطويلة. وأخيرًا، يتكامل Microsoft 365 Copilot Chat مع بيانات العمل والتطبيقات الخاصة بك لتعزيز الإبداع والإنتاجية وتطوير المهارات.
 
 الدروس الرئيسية المستفادة من هذه الوحدة هي كالتالي:
 
@@ -18,4 +20,4 @@
 
 - [كتابة مسودة رسالة بريد إلكتروني باستخدام Copilot في Outlook](https://support.microsoft.com/office/draft-an-email-message-with-copilot-in-outlook-3eb1d053-89b8-491c-8a6e-746015238d9b)
 
-- [استخدام Microsoft 365 Business Chat على Microsoft365.com/Copilot](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f)
+- [استخدم Microsoft 365 Copilot Chat على Microsoft365.com/Copilot](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f)

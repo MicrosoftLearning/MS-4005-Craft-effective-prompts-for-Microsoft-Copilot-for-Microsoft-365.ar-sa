@@ -39,6 +39,6 @@
 	</li>
 	<li>
 	عند مطالبة **تسجيل الدخول**، أدخل `userx@yourtenant.onmicrosoft.com` (اسم المستخدم والمستأجر المقدم من قبل المستأجر الخاص بك) وحدّد **التالي**.	</li>
-
+</ol>
     [!(../media/lab_resources_password.png)](../media/lab_resources_password.png#lightbox)
 	

@@ -3,19 +3,19 @@
 خلال بقية الوحدة، سنقوم بصياغة المطالبات لـ Microsoft 365 Copilot التي تشير إلى هذه الملفات.
 <ul dir='rtl'>
 	<li>
-	- [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
+	[Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
 	</li>
 	<li>
-	- [Contoso Chai Tea market trends 2023.xlsx](https://go.microsoft.com/fwlink/?linkid=2268822)
+	[Contoso Chai Tea market trends 2023.xlsx](https://go.microsoft.com/fwlink/?linkid=2268822)
 	</li>
 	<li>
-	- [Contoso Chai Tea market trends 2023.docx](https://go.microsoft.com/fwlink/?linkid=2269122)
+	[Contoso Chai Tea market trends 2023.docx](https://go.microsoft.com/fwlink/?linkid=2269122)
 	</li>
 	<li>
-	- [Market Trend Report- Protein shake.docx](https://go.microsoft.com/fwlink/?linkid=2268827)
+	[Market Trend Report- Protein shake.docx](https://go.microsoft.com/fwlink/?linkid=2268827)
 	</li>
 	<li>
-	- [Mystic Spice Premium Chai Market Analysis Presentation.pptx](https://go.microsoft.com/fwlink/?linkid=2268768)
+	[Mystic Spice Premium Chai Market Analysis Presentation.pptx](https://go.microsoft.com/fwlink/?linkid=2268768)
 	</li>
 </ul>
 

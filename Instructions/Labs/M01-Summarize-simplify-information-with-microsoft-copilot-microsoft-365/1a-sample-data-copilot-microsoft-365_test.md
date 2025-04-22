@@ -42,5 +42,3 @@
 </ol>
 
     [![جزء مصدر لقطة الشاشة](../media/lab_resources_password.png)](../media/lab_resources_password.png#lightbox)
-    
-	

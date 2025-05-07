@@ -1,40 +1,73 @@
 # تدريب - تابع باستخدام بيانات العينة مع Microsoft 365 Copilot
 
 خلال بقية الوحدة، سنقوم بصياغة المطالبات لـ Microsoft 365 Copilot التي تشير إلى هذه الملفات.
+<ul dir='rtl'>
+<li>
+<a href="https://go.microsoft.com/fwlink/?linkid=2268826">Market Analysis Report for Mystic Spice Premium Chai Tea.docx</a>
+</li>
+<li>
+<a href="https://go.microsoft.com/fwlink/?linkid=2268768">Mystic Spice Premium Chai Market Analysis Presentation.pptx</a>
+</li>
+<li>
+<a href="https://go.microsoft.com/fwlink/?linkid=2268929">Mystic Spice Premium Chai Tea product description.docx</a>
+</li>
+<li>
+<a href="https://go.microsoft.com/fwlink/?linkid=2269124">Fabrikam Q1 marketing campaigns.xlsx</a>
+</li>
 
-- [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
-- [Mystic Spice Premium Chai Market Analysis Presentation.pptx](https://go.microsoft.com/fwlink/?linkid=2268768)
-- [Mystic Spice Premium Chai Tea product description.docx](https://go.microsoft.com/fwlink/?linkid=2268929)
-- [Fabrikam Q1 marketing campaigns.xlsx](https://go.microsoft.com/fwlink/?linkid=2269124)
+</ul>
 
-**ملاحظة**: هذه هي الملفات التي سنشير إليها في جميع أنحاء الوحدة. ومع ذلك، بالنسبة لهذا النشاط العملي، سنبدأ بتحميل جميع الملفات إلى **OneDrive** للتأكد من إمكانية الوصول إليها من خلال مطالبات Copilot لاحقًا.
+
+<b>ملاحظة</b>: هذه هي الملفات التي سنشير إليها في جميع أنحاء الوحدة. ومع ذلك، بالنسبة لهذا النشاط العملي، سنبدأ بتحميل جميع الملفات إلى <b>OneDrive</b> للتأكد من إمكانية الوصول إليها من خلال مطالبات Copilot لاحقًا.
 
 ## تحميل الملفات إلى OneDrive
 
 > [!IMPORTANT]
-> يمكنك تخطي هذه الخطوة إذا قمت بالفعل بتحميل جميع الملفات من المجلد **"C:\ResourceFiles"** إلى**OneDrive**. 
+> يمكنك تخطي هذه الخطوة إذا قمت بالفعل بتحميل جميع الملفات من المجلد <b>"C:\ResourceFiles"</b> إلى<b>OneDrive</b>. 
 
-اتبع الخطوات أدناه لتحميل جميع الملفات المطلوبة إلى **OneDrive**:
+اتبع الخطوات أدناه لتحميل جميع الملفات المطلوبة إلى <b>OneDrive</b>:
+<ol dir='rtl'>
+<li>
+سجّل الدخول إلى الجهاز الظاهري الذي يوفره لك موفر المستأجر باعتبارك حساب <b>المسؤول</b> المحلي باستخدام كلمة المرور <code>Pa55w.rd</code>.
+</li>
+<li>
+في شريط مهام Windows، حدد <b>Microsoft Edge</b>.
+</li>
+<li>
+في شريط العناوين، أدخِل <code>https://onedrive.live.com/login</code>.
+</li>
+<li>
+ضمن <b>مرحبًا بك في Microsoft 365</b>، حدد <b>تسجيل الدخول</b>.
+</li>
+<li>
+عند مطالبة <b>تسجيل الدخول</b>، أدخل <code>userx@yourtenant.onmicrosoft.com</code> (اسم المستخدم والمستأجر المقدم من قبل المستأجر الخاص بك) وحدّد <b>التالي</b>.
+</li>
+<p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365.ar-sa/blob/main/Instructions/Labs/media/lab_resources_password.png"><img src="https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365.ar-sa/blob/main/Instructions/Labs/media/lab_resources_password.png" alt="جزء مصدر لقطة الشاشة"> </a></p>
+<li>
+في شاشة <b>إدخال كلمة المرور</b>، أدخل كلمة المرور (المقدمة من قبل موفر المستأجر) لحساب المستخدم، ثم حدد <b>تسجيل الدخول</b>.
+</li>
+<li>
+إذا طُلب منك <b>البقاء مسجلًا الدخول</b>، فحدد <b>عدم إظهار هذا مرة أخرى</b>، ثم <b>نعم</b>.
+</li>
+<li>
+في <b>OneDrive</b>، في الزاوية العلوية اليسرى، حدد <b>+</b> (إضافة جديد) > <b>تحميل ملف</b>.
+</li>
 
-1. سجّل الدخول إلى الجهاز الظاهري الذي يوفره لك موفر المستأجر باعتبارك حساب **المسؤول** المحلي باستخدام كلمة المرور `Pa55w.rd`.
-2. في شريط مهام Windows، حدد **Microsoft Edge**.
-3. في شريط العناوين، أدخِل `https://onedrive.live.com/login`.
-4. ضمن **مرحبًا بك في Microsoft 365**، حدد **تسجيل الدخول**.
-5. عند مطالبة **تسجيل الدخول**، أدخل `userx@yourtenant.onmicrosoft.com` (اسم المستخدم والمستأجر المقدم من قبل المستأجر الخاص بك) وحدّد **التالي**.
+<p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365.ar-sa/blob/main/Instructions/Labs/media/add_new.png"><img src="https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365.ar-sa/blob/main/Instructions/Labs/media/add_new.png" alt="لقطة الشاشة الخاصة بإضافة ملف جديد"></a></p>
+<li>
 
-    [![جزء مصدر لقطة الشاشة](../media/lab_resources_password.png)](../media/lab_resources_password.png#lightbox)
-
-6. في شاشة **إدخال كلمة المرور**، أدخل كلمة المرور (المقدمة من قبل موفر المستأجر) لحساب المستخدم، ثم حدد **تسجيل الدخول**.
-7. إذا طُلب منك **البقاء مسجلًا الدخول**، فحدد **عدم إظهار هذا مرة أخرى**، ثم **نعم**.
-8. في **OneDrive**، في الزاوية العلوية اليسرى، حدد **+** (إضافة جديد) > **تحميل ملف**.
-
-    [![لقطة الشاشة الخاصة بإضافة ملف جديد](../media/add_new.png)](../media/add_new.png#lightbox)
-
-9. في **مستكشف الملفات**، حدد **هذا الحاسوب** > **القرص المحلي (C:)** وافتح المجلد **ResourceFiles**.
-10. حدد جميع الملفات الموجودة داخل المجلد **ResourceFiles**، ثم حدد **فتح** لتحميلها إلى **OneDrive**.
-11. عند اكتمال التحميل، يجب أن ترى **تم تحميل 29 عنصرًا إلى ملفاتي** في الجزء السفلي الأوسط من الشاشة.
-12. اترك **Edge** مفتوحًا وانتقل إلى المهمة التالية.
-
+في <b>مستكشف الملفات</b>، حدد <b>هذا الحاسوب</b> > <b>القرص المحلي (C:)</b> وافتح المجلد <b>ResourceFiles</b>.
+</li>
+<li>
+حدد جميع الملفات الموجودة داخل المجلد <b>ResourceFiles</b>، ثم حدد <b>فتح</b> لتحميلها إلى <b>OneDrive</b>.
+</li>
+<li>
+عند اكتمال التحميل، يجب أن ترى <b>تم تحميل 29 عنصرًا إلى ملفاتي</b> في الجزء السفلي الأوسط من الشاشة.
+</li>
+<li>
+اترك <b>Edge</b> مفتوحًا وانتقل إلى المهمة التالية.
+</li>
+</ol>
 ### ملفات مرجعية
 
 عند الرجوع إلى الملفات من Copilot، قد تجد أنه لا يمكنك العثور على بعض الملفات من الاقتراحات المقدمة لك. يحدث هذا في بعض الأحيان لأن بعض التجارب مع Copilot تشير فقط إلى الملفات من قائمة "الأكثر استخدامًا مؤخرًا" (MRU)، بينما تتيح لك تجارب أخرى تصفح OneDrive للعثور على ملفك. إن إضافتها إلى هذه القائمة أمر سهل مثل فتحها في تطبيق Microsoft 365 المناسب.  بمجرد فتحها، يجب أن تظهر في قائمة MRU.

@@ -4,68 +4,66 @@
 
 ## إعادة الكتابة من أجل النبرة
 
-1. حدد النص الذي تريد أن يقوم Copilot بإعادة كتابته.
+<ol dir='rtl'>
+    <li>حدد النص الذي تريد أن يقوم Copilot بإعادة كتابته.</li>
+    <li>في الهامش الأيسر بجوار النص، حدد أيقونة <b>Copilot</b>.</li>
+    <li>من قائمة Copilot الموجودة في الهامش الأيسر، حدد <b>إعادة الكتابة</b>.</li>
+    <li>يُظهر لك برنامج Copilot خيارات تمت إعادة كتابتها للاختيار من بينها.</li>
+    <li>حدد <b>استبدال</b> لاستخدام النص المنقح، أو <b>إدراج أدناه</b> لإدراج النص المعاد كتابته أسفل النص الحالي، أو <b>إعادة إنشاء</b> لإعادة إنشاء اقتراحات Copilot، أو <b>ضبط النبرة</b> لضبط النص المعاد كتابته إلى النبرة المطلوبة.</li>
+    <p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365.ar-sa/blob/main/Instructions/Labs/media/edit_copilot-rewrite-word.png"><img src="https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365.ar-sa/blob/main/Instructions/Labs/media/edit_copilot-rewrite-word.png" alt="لقطة شاشة لبرنامج Copilot في Word مع اقتراحات وخيارات إعادة كتابة النص."> </a></p>
+</ol>
 
-1. في الهامش الأيسر بجوار النص، حدد أيقونة **Copilot**.
-
-1. من قائمة Copilot الموجودة في الهامش الأيسر، حدد **إعادة الكتابة**.
-
-1. يُظهر لك برنامج Copilot خيارات تمت إعادة كتابتها للاختيار من بينها.
-
-1. حدد **استبدال** لاستخدام النص المنقح، أو **إدراج أدناه** لإدراج النص المعاد كتابته أسفل النص الحالي، أو **إعادة إنشاء** لإعادة إنشاء اقتراحات Copilot، أو **ضبط النبرة** لضبط النص المعاد كتابته إلى النبرة المطلوبة.
-
-    ![لقطة شاشة لبرنامج Copilot في Word مع اقتراحات وخيارات إعادة كتابة النص.](../media/edit_copilot-rewrite-word.png)
 
 ## نص إلى جدول
 
-1. حدد النص الذي تريد من Copilot تحويله إلى جدول.
-
-1. في الهامش الأيسر بجوار النص، حدد أيقونة **Copilot**.
-
-1. من قائمة Copilot في الهامش الأيسر، حدد **اعرض كجدول**.
-
-1. يظهر لك Copilot شكل الجدول.
-
-1. حدد **الاحتفاظ به** لإدراج الجدول في مستندك، أو **إعادة إنشاء** لإعادة إنشاء جدول Copilot، أو **تجاهل** لإزالة الجدول.
-
-1. لضبط الجدول بشكل دقيق، أدخل التفاصيل في مربع كتابة Copilot لتحديد ما يجب تغييره حول الجدول.
-
-    1. تغيير تنسيق جدول غير مدعوم باستخدام مربع الكتابة، ولكن يمكن تغيير تنسيق الجدول باستخدام خيارات الجدول في شريط Word.
-
-    ![لقطة شاشة لبرنامج Copilot في Word تُظهر إمكانية تحويل النص إلى جدول.](../media/edit_copilot-visualize-table-word.png)
+<ol dir='rtl'>
+    <li>حدد النص الذي تريد من Copilot تحويله إلى جدول.</li>
+    <li>في الهامش الأيسر بجوار النص، حدد أيقونة <b>Copilot</b>.</li>
+    <li>من قائمة Copilot في الهامش الأيسر، حدد <b>اعرض كجدول</b>.</li>
+    <li>يظهر لك Copilot شكل الجدول.</li>
+    <li>حدد <b>الاحتفاظ به</b> لإدراج الجدول في مستندك، أو <b>إعادة إنشاء</b> لإعادة إنشاء جدول Copilot، أو <b>تجاهل</b> لإزالة الجدول.</li>
+    <li>
+        <p>لضبط الجدول بشكل دقيق، أدخل التفاصيل في مربع كتابة Copilot لتحديد ما يجب تغييره حول الجدول.</p>
+        <ul>
+            <li>تغيير تنسيق جدول غير مدعوم باستخدام مربع الكتابة، ولكن يمكن تغيير تنسيق الجدول باستخدام خيارات الجدول في شريط Word.</li>
+            <p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365.ar-sa/blob/main/Instructions/Labs/media/edit_copilot-visualize-table-word.png"><img src="https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365.ar-sa/blob/main/Instructions/Labs/media/edit_copilot-visualize-table-word.png" alt="لقطة شاشة لبرنامج Copilot في Word تُظهر إمكانية تحويل النص إلى جدول."> </a></p>
+        </ul>
+    </li>
+</ol>
 
 في المثال التالي، نبدأ بمطالبة بسيطة لتحويل بعض النصوص إلى جدول وإضافة عناصر على طول الطريق. تابع المثال باستخدام بياناتك الخاصة.
 
 ## دعونا نبدأ في الصياغة
 
-أولاً، نزّل **_[Graphic Design Institute - Employee Benefits.docx](https://go.microsoft.com/fwlink/?linkid=2268825)_** واحفظ الملف في **مجلد OneDrive** إذا لم تكن قد فعلت ذلك بعد.
+أولاً، نزّل <b><a href="https://go.microsoft.com/fwlink/?linkid=2268825">Graphic Design Institute - Employee Benefits.docx</a></b> واحفظ الملف في <b>مجلد OneDrive</b> إذا لم تكن قد فعلت ذلك بعد.
 
-افتح المستند في Word وميّز كل النص في المستند (اضغط على **Ctrl-A**). من قائمة Copilot في الهامش الأيسر، حدد **اعرض كجدول**. بعد إنشاء الجدول، تابع مع Copilot باستخدام المطالبات أدناه لتحسين النتائج.
+افتح المستند في Word وميّز كل النص في المستند (اضغط على <b>Ctrl-A</b>). من قائمة Copilot في الهامش الأيسر، حدد <b>اعرض كجدول</b>. بعد إنشاء الجدول، تابع مع Copilot باستخدام المطالبات أدناه لتحسين النتائج.
 
 > [!NOTE]
 > مطالبة البدء:
 >
 > _تصورها كجدول._
 
-في هذه المطالبة البسيطة، ستبدأ **بالهدف** الأساسي: _لتحويل النص إلى جدول._ ومع ذلك، لا توجد إشارة إلى المعلومات التي تريدها في الجدول أو لماذا يجب أن يكون جدولًا.
+في هذه المطالبة البسيطة، ستبدأ <b>بالهدف</b> الأساسي: _لتحويل النص إلى جدول._ ومع ذلك، لا توجد إشارة إلى المعلومات التي تريدها في الجدول أو لماذا يجب أن يكون جدولًا.
 
-![لقطة شاشة لبرنامج Copilot في Word أثناء عمله على تحويل النص إلى جدول.](../media/edit_copilot-visualize-table-word-example.png)
+<p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365.ar-sa/blob/main/Instructions/Labs/media/edit_copilot-visualize-table-word-example.png"><img src="https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365.ar-sa/blob/main/Instructions/Labs/media/edit_copilot-visualize-table-word-example.png" alt="لقطة شاشة لبرنامج Copilot في Word أثناء عمله على تحويل النص إلى جدول."> </a></p>
+
 
 | العنصر | مثال |
 | :------ | :------- |
-| **المطالبة الأساسية:** ابدأ **بهدف** | **_تصورها كجدول._** |
-| **المطالبة الجيدة:** أضف **سياق** | يمكن أن تساعد إضافة **السياق** Copilot في فهم نوع البيانات التي يجب رؤيتها وما سيتم استخدامها من أجله. _"نحن بحاجة إلى طريقة واضحة لتوصيل هذه الفوائد للموظفين المحتملين."_ |
-| **مطالبة أفضل:** حدد **المصدر(المصادر)** | **المصدر** في هذا المثال هو النص الكامل لـ **Graphic Design Institute - Employee Benefits.docx**. |
-| **أفضل مطالبة:** عيّن **توقعات** واضحة | وأخيرًا، قد تساعد إضافة **التوقعات** Copilot في فهم كيفية تنظيم الجدول وكتابته. _أدرج عمودًا ثالثًا يصف بوضوح الفائدة التي تعود على الموظف وكيف تؤثر على رفاهيته."_ |
+| <b>المطالبة الأساسية:</b> ابدأ <b>بهدف</b> | <b>_تصورها كجدول._</b> |
+| <b>المطالبة الجيدة:</b> أضف <b>سياق</b> | يمكن أن تساعد إضافة <b>السياق</b> Copilot في فهم نوع البيانات التي يجب رؤيتها وما سيتم استخدامها من أجله. _"نحن بحاجة إلى طريقة واضحة لتوصيل هذه الفوائد للموظفين المحتملين."_ |
+| <b>مطالبة أفضل:</b> حدد <b>المصدر(المصادر)</b> | <b>المصدر</b> في هذا المثال هو النص الكامل لـ <b>Graphic Design Institute - Employee Benefits.docx</b>. |
+| <b>أفضل مطالبة:</b> عيّن <b>توقعات</b> واضحة | وأخيرًا، قد تساعد إضافة <b>التوقعات</b> Copilot في فهم كيفية تنظيم الجدول وكتابته. _أدرج عمودًا ثالثًا يصف بوضوح الفائدة التي تعود على الموظف وكيف تؤثر على رفاهيته."_ |
 
 > [!NOTE]
-> **المطالبة المصممة**:
+> <b>المطالبة المصممة</b>:
 >
 > _تصورها كجدول. نحتاج إلى طريقة واضحة لتوصيل هذه الفوائد للموظفين المحتملين. ضمّن عمودًا ثالثًا يصف بوضوح الفائدة التي تعود على الموظف وكيف تؤثر على رفاهيته._
 
-![التقط لقطة شاشة لنتائج المطالبة المصممة مسبقًا مقابل مستند العينة باستخدام Copilot في Word.](../media/edit_copilot-visualize-table-word-results.png)
+<p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365.ar-sa/blob/main/Instructions/Labs/media/edit_copilot-visualize-table-word-results.png"><img src="https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365.ar-sa/blob/main/Instructions/Labs/media/edit_copilot-visualize-table-word-results.png" alt="التقط لقطة شاشة لنتائج المطالبة المصممة مسبقًا مقابل مستند العينة باستخدام Copilot في Word."> </a></p>
 
-تمنح هذه المطالبة برنامج Copilot كل ما يحتاجه للتوصل إلى رد جيد، بما في ذلك **الهدف**، و**السياق**، و**المصدر**، و**التوقعات**.
+تمنح هذه المطالبة برنامج Copilot كل ما يحتاجه للتوصل إلى رد جيد، بما في ذلك <b>الهدف</b>، و<b>السياق</b>، و<b>المصدر</b>، و<b>التوقعات</b>.
 
 > [!IMPORTANT]
 > تتوفر هذه الميزة للعملاء الذين لديهم ترخيص Microsoft 365 Copilot أو ترخيص Copilot Pro. لمزيد من المعلومات، راجع [تحويل المحتوى الخاص بك باستخدام Copilot في Word](https://support.microsoft.com/office/transform-your-content-with-copilot-in-word-923d9763-f896-4da7-8a3f-5b12c3bfc475).

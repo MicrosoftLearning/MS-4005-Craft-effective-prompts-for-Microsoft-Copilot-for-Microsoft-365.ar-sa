@@ -2,37 +2,38 @@
 
 خلال بقية الوحدة، سنقوم بصياغة المطالبات لـ Microsoft 365 Copilot التي تشير إلى هذه الملفات.
 
-- [Contoso CipherGuard Product Specification.docx](https://go.microsoft.com/fwlink/?linkid=2269123)
-- [Contoso CipherGuard project plan.docx](https://go.microsoft.com/fwlink/?linkid=2268924)
-- [Market Trend Report- Protein shake.docx](https://go.microsoft.com/fwlink/?linkid=2268827)
+<ul dir='rtl'>
+    <li><a href="https://go.microsoft.com/fwlink/?linkid=2269123">Contoso CipherGuard Product Specification.docx</a></li>
+    <li><a href="https://go.microsoft.com/fwlink/?linkid=2268924">Contoso CipherGuard project plan.docx</a></li>
+    <li><a href="https://go.microsoft.com/fwlink/?linkid=2268827">Market Trend Report- Protein shake.docxx</a></li>
+</ul>
 
-**ملاحظة**: هذه هي الملفات التي سنشير إليها في جميع أنحاء الوحدة. ومع ذلك، بالنسبة لهذا النشاط العملي، سنبدأ بتحميل جميع الملفات إلى **OneDrive** للتأكد من إمكانية الوصول إليها من خلال مطالبات Copilot لاحقًا.
+
+<b>ملاحظة</b>: هذه هي الملفات التي سنشير إليها في جميع أنحاء الوحدة. ومع ذلك، بالنسبة لهذا النشاط العملي، سنبدأ بتحميل جميع الملفات إلى <b>OneDrive</b> للتأكد من إمكانية الوصول إليها من خلال مطالبات Copilot لاحقًا.
 
 ## تحميل الملفات إلى OneDrive
 
 > [!IMPORTANT]
-> يمكنك تخطي هذه الخطوة إذا قمت بالفعل بتحميل جميع الملفات من المجلد **"C:\ResourceFiles"** إلى**OneDrive**. 
+> يمكنك تخطي هذه الخطوة إذا قمت بالفعل بتحميل جميع الملفات من المجلد <b>"C:\ResourceFiles"</b> إلى<b>OneDrive</b>. 
 
-اتبع الخطوات أدناه لتحميل جميع الملفات المطلوبة إلى **OneDrive**:
+اتبع الخطوات أدناه لتحميل جميع الملفات المطلوبة إلى <b>OneDrive</b>:
 
-1. سجّل الدخول إلى الجهاز الظاهري الذي يوفره لك موفر المستأجر باعتبارك حساب **المسؤول** المحلي باستخدام كلمة المرور `Pa55w.rd`.
-2. في شريط مهام Windows، حدد **Microsoft Edge**.
-3. في شريط العناوين، أدخِل `https://onedrive.live.com/login`.
-4. ضمن **مرحبًا بك في Microsoft 365**، حدد **تسجيل الدخول**.
-5. عند مطالبة **تسجيل الدخول**، أدخل `userx@yourtenant.onmicrosoft.com` (اسم المستخدم والمستأجر المقدم من قبل المستأجر الخاص بك) وحدّد **التالي**.
-
-    [![جزء مصدر لقطة الشاشة](../media/lab_resources_password.png)](../media/lab_resources_password.png#lightbox)
-
-6. في شاشة **إدخال كلمة المرور**، أدخل كلمة المرور (المقدمة من قبل موفر المستأجر) لحساب المستخدم، ثم حدد **تسجيل الدخول**.
-7. إذا طُلب منك **البقاء مسجلًا الدخول**، فحدد **عدم إظهار هذا مرة أخرى**، ثم **نعم**.
-8. في **OneDrive**، في الزاوية العلوية اليسرى، حدد **+** (إضافة جديد) > **تحميل ملف**.
-
-    [![لقطة الشاشة الخاصة بإضافة ملف جديد](../media/add_new.png)](../media/add_new.png#lightbox)
-
-9. في **مستكشف الملفات**، حدد **هذا الحاسوب** > **القرص المحلي (C:)** وافتح المجلد **ResourceFiles**.
-10. حدد جميع الملفات الموجودة داخل المجلد **ResourceFiles**، ثم حدد **فتح** لتحميلها إلى **OneDrive**.
-11. عند اكتمال التحميل، يجب أن ترى **تم تحميل 29 عنصرًا إلى ملفاتي** في الجزء السفلي الأوسط من الشاشة.
-12. اترك **Edge** مفتوحًا وانتقل إلى المهمة التالية.
+<ol dir='rtl'>
+    <li>سجّل الدخول إلى الجهاز الظاهري الذي يوفره لك موفر المستأجر باعتبارك حساب <b>المسؤول</b> المحلي باستخدام كلمة المرور <code>Pa55w.rd</code>.</li>
+    <li>في شريط مهام Windows، حدد <b>Microsoft Edge</b>.</li>
+    <li>في شريط العناوين، أدخِل <code>https://onedrive.live.com/login</code>.</li>
+    <li>ضمن <b>مرحبًا بك في Microsoft 365</b>، حدد <b>تسجيل الدخول</b>.</li>
+    <li>عند مطالبة <b>تسجيل الدخول</b>، أدخل <code>userx@yourtenant.onmicrosoft.com</code> (اسم المستخدم والمستأجر المقدم من قبل المستأجر الخاص بك) وحدّد <b>التالي</b>.</li>
+    <p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365.ar-sa/blob/main/Instructions/Labs/media/lab_resources_password.png"><img src="https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365.ar-sa/blob/main/Instructions/Labs/media/lab_resources_password.png" alt="جزء مصدر لقطة الشاشة"></a></p>
+    <li>في شاشة <b>إدخال كلمة المرور</b>، أدخل كلمة المرور (المقدمة من قبل موفر المستأجر) لحساب المستخدم، ثم حدد <b>تسجيل الدخول</b>.</li>
+    <li>إذا طُلب منك <b>البقاء مسجلًا الدخول</b>، فحدد <b>عدم إظهار هذا مرة أخرى</b>، ثم <b>نعم</b>.</li>
+    <li>في <b>OneDrive</b>، في الزاوية العلوية اليسرى، حدد <b>+</b> (إضافة جديد) > <b>تحميل ملف</b>.</li>
+    <p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365.ar-sa/blob/main/Instructions/Labs/media/add_new.png"><img src="https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365.ar-sa/blob/main/Instructions/Labs/media/add_new.png" alt="لقطة الشاشة الخاصة بإضافة ملف جديد"></a></p>
+    <li>في <b>مستكشف الملفات</b>، حدد <b>هذا الحاسوب</b> > <b>القرص المحلي (C:)</b> وافتح المجلد <b>ResourceFiles</b>.</li>
+    <li>حدد جميع الملفات الموجودة داخل المجلد <b>ResourceFiles</b>، ثم حدد <b>فتح</b> لتحميلها إلى <b>OneDrive</b>.</li>
+    <li>عند اكتمال التحميل، يجب أن ترى <b>تم تحميل 29 عنصرًا إلى ملفاتي</b> في الجزء السفلي الأوسط من الشاشة.</li>
+    <li>اترك <b>Edge</b> مفتوحًا وانتقل إلى المهمة التالية.</li>
+</ol>
 
 ### ملفات مرجعية
 

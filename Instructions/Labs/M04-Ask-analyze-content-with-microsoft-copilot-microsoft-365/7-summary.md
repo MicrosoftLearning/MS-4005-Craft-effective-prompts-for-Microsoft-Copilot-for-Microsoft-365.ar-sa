@@ -19,12 +19,19 @@
 ## الموارد
 
 <ul dir='rtl'>
-    <li><a href="https://support.microsoft.com/office/chat-with-copilot-about-your-word-document-4482c688-a495-4571-bfcd-4a9fc6608090">الدردشة مع Copilot حول مستند Word الخاص بك</a></li>
-    <li><a href="https://support.microsoft.com/office/organize-this-presentation-with-copilot-in-powerpoint-a207eea3-7a56-4225-88f1-54dd37cdcf6a">نظّم هذا العرض التقديمي باستخدام Copilot في PowerPoint</a></li>
-
-    <li><a href="https://support.microsoft.com/office/generate-formula-columns-with-copilot-in-excel-d866d926-9791-4e5f-be2a-c6dd9e587a47">نإنشاء أعمدة الصيغة باستخدام Copilot في Excel</a></li>
-    <li><a href="https://support.microsoft.com/office/chat-with-copilot-about-your-notes-and-research-questions-8be75b91-d4d3-461e-af9a-fadfe208b589">ندردش مع Copilot حول ملاحظاتك وأسئلة البحث الخاصة بك</a></li>
-
-
-    <li><a href="https://support.microsoft.com/office/get-started-with-copilot-in-microsoft-teams-meetings-0bf9dd3c-96f7-44e2-8bb8-790bedf066b1">ابدأ باستخدام Copilot في اجتماعات Microsoft Teams</a></li>
+    <li>
+	<a href="https://support.microsoft.com/office/chat-with-copilot-about-your-word-document-4482c688-a495-4571-bfcd-4a9fc6608090">الدردشة مع Copilot حول مستند Word الخاص بك</a>
+	</li>
+    <li>
+	<a href="https://support.microsoft.com/office/organize-this-presentation-with-copilot-in-powerpoint-a207eea3-7a56-4225-88f1-54dd37cdcf6a">نظّم هذا العرض التقديمي باستخدام Copilot في PowerPoint</a>
+	</li>
+    <li>
+	<a href="https://support.microsoft.com/office/generate-formula-columns-with-copilot-in-excel-d866d926-9791-4e5f-be2a-c6dd9e587a47">نإنشاء أعمدة الصيغة باستخدام Copilot في Excel</a>
+	</li>
+    <li>
+	<a href="https://support.microsoft.com/office/chat-with-copilot-about-your-notes-and-research-questions-8be75b91-d4d3-461e-af9a-fadfe208b589">ندردش مع Copilot حول ملاحظاتك وأسئلة البحث الخاصة بك</a>
+	</li>
+    <li>
+	<a href="https://support.microsoft.com/office/get-started-with-copilot-in-microsoft-teams-meetings-0bf9dd3c-96f7-44e2-8bb8-790bedf066b1">ابدأ باستخدام Copilot في اجتماعات Microsoft Teams</a>
+	</li>
 </ul>

@@ -49,12 +49,32 @@
 <p dir="rtl"><a href="https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365.ar-sa/blob/main/Instructions/Labs/media/edit_copilot-visualize-table-word-example.png"><img src="https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365.ar-sa/blob/main/Instructions/Labs/media/edit_copilot-visualize-table-word-example.png" alt="لقطة شاشة لبرنامج Copilot في Word أثناء عمله على تحويل النص إلى جدول."> </a></p>
 
 
-| العنصر | مثال |
-| :------ | :------- |
-| <b>المطالبة الأساسية:</b> ابدأ <b>بهدف</b> | <b>_تصورها كجدول._</b> |
-| <b>المطالبة الجيدة:</b> أضف <b>سياق</b> | يمكن أن تساعد إضافة <b>السياق</b> Copilot في فهم نوع البيانات التي يجب رؤيتها وما سيتم استخدامها من أجله. _"نحن بحاجة إلى طريقة واضحة لتوصيل هذه الفوائد للموظفين المحتملين."_ |
-| <b>مطالبة أفضل:</b> حدد <b>المصدر(المصادر)</b> | <b>المصدر</b> في هذا المثال هو النص الكامل لـ <b>Graphic Design Institute - Employee Benefits.docx</b>. |
-| <b>أفضل مطالبة:</b> عيّن <b>توقعات</b> واضحة | وأخيرًا، قد تساعد إضافة <b>التوقعات</b> Copilot في فهم كيفية تنظيم الجدول وكتابته. _أدرج عمودًا ثالثًا يصف بوضوح الفائدة التي تعود على الموظف وكيف تؤثر على رفاهيته."_ |
+<markdown-accessiblity-table data-catalyst=""><div dir="rtl"><table>
+<thead>
+<tr>
+<th align="right">العنصر</th>
+<th align="right">مثال</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right"><b>المطالبة الأساسية:</b> ابدأ <b>بهدف</b></td>
+<td align="right"><b><em>تصورها كجدول.</em></b></td>
+</tr>
+<tr>
+<td align="right"><b>المطالبة الجيدة:</b> أضف <b>سياق</b></td>
+<td align="right">يمكن أن تساعد إضافة <b>السياق</b> Copilot في فهم نوع البيانات التي يجب رؤيتها وما سيتم استخدامها من أجله. <em>"نحن بحاجة إلى طريقة واضحة لتوصيل هذه الفوائد للموظفين المحتملين."</em></td>
+</tr>
+<tr>
+<td align="right"><b>مطالبة أفضل:</b> حدد <b>المصدر(المصادر)</b></td>
+<td align="right"><b>المصدر</b> في هذا المثال هو النص الكامل لـ <b>Graphic Design Institute - Employee Benefits.docx</b>.</td>
+</tr>
+<tr>
+<td align="right"><b>أفضل مطالبة:</b> عيّن <b>توقعات</b> واضحة</td>
+<td align="right">وأخيرًا، قد تساعد إضافة <b>التوقعات</b> Copilot في فهم كيفية تنظيم الجدول وكتابته. <em>أدرج عمودًا ثالثًا يصف بوضوح الفائدة التي تعود على الموظف وكيف تؤثر على رفاهيته."</em></td>
+</tr>
+</tbody>
+</table></div></markdown-accessiblity-table>
 
 > [!NOTE]
 > <b>المطالبة المصممة</b>:

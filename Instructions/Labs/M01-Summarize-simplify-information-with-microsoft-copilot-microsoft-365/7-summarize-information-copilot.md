@@ -37,26 +37,26 @@
 <markdown-accessiblity-table data-catalyst=""><div dir="rtl"><table>
 <thead>
 <tr>
-<th align="left">العنصر</th>
-<th align="left">مثال</th>
+<th align="right">العنصر</th>
+<th align="right">مثال</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><b>المطالبة الأساسية:</b> ابدأ <b>بهدف</b></td>
-<td align="left"><b>ابحث عن المعلومات وتجميعها حول مشروب Protein Plus الجديد من Contoso.</b></td>
+<td align="right"><b>المطالبة الأساسية:</b> ابدأ <b>بهدف</b></td>
+<td align="right"><b>ابحث عن المعلومات وتجميعها حول مشروب Protein Plus الجديد من Contoso.</b></td>
 </tr>
 <tr>
-<td align="left"><b>المطالبة الجيدة:</b> أضف <b>سياق</b></td>
-<td align="left">قد يساعد إضافة <b>السياق</b> Copilot في فهم الغرض وتعديل الرد وفقًا لذلك. <em>"...لمراجعة أعمال ربع سنوية قادمة. نحتاج إلى ملخص تنفيذي، بالإضافة إلى تفاصيل حول حملة وسائل التواصل الاجتماعي والمنتجات المنافسة."</em></td>
+<td align="right"><b>المطالبة الجيدة:</b> أضف <b>سياق</b></td>
+<td align="right">قد يساعد إضافة <b>السياق</b> Copilot في فهم الغرض وتعديل الرد وفقًا لذلك. <em>"...لمراجعة أعمال ربع سنوية قادمة. نحتاج إلى ملخص تنفيذي، بالإضافة إلى تفاصيل حول حملة وسائل التواصل الاجتماعي والمنتجات المنافسة."</em></td>
 </tr>
 <tr>
-<td align="left"><b>مطالبة أفضل:</b> حدد <b>المصدر(المصادر)</b></td>
-<td align="left">قد تساعد إضافة <b>المصادر</b> Copilot في فهم المكان الذي يجب البحث فيه عن المعلومات وتوفير رد أكثر دقة. <em>"ابحث عن المعلومات في <b>/Market Analysis Report for Mystic Spice Premium Chai Tea.docx</b>، <b>/Contoso Chai Tea market trends 2023.xlsx</b>، و <b>/Market Trend Report - Protein shake.docx</b> لكتابة الملخص التنفيذي."</em></td>
+<td align="right"><b>مطالبة أفضل:</b> حدد <b>المصدر(المصادر)</b></td>
+<td align="right">قد تساعد إضافة <b>المصادر</b> Copilot في فهم المكان الذي يجب البحث فيه عن المعلومات وتوفير رد أكثر دقة. <em>"ابحث عن المعلومات في <b>/Market Analysis Report for Mystic Spice Premium Chai Tea.docx</b>، <b>/Contoso Chai Tea market trends 2023.xlsx</b>، و <b>/Market Trend Report - Protein shake.docx</b> لكتابة الملخص التنفيذي."</em></td>
 </tr>
 <tr>
-<td align="left"><b>أفضل مطالبة:</b> عيّن <b>توقعات</b> واضحة</td>
-<td align="left">وأخيرًا، قد تساعد إضافة <b>التوقعات</b> Copilot في فهم كيفية تنسيق الملخص ومستوى التفاصيل المطلوب. <em>يجب أن يبدو الملخص احترافيًا، مع نبرة متفائلة بشأن عوائق الإصدار لدينا. يجب أن يتضمن التحليل التنافسي أيضًا روابط للمنتجات ذات الصلة في جدول.</em></td>
+<td align="right"><b>أفضل مطالبة:</b> عيّن <b>توقعات</b> واضحة</td>
+<td align="right">وأخيرًا، قد تساعد إضافة <b>التوقعات</b> Copilot في فهم كيفية تنسيق الملخص ومستوى التفاصيل المطلوب. <em>يجب أن يبدو الملخص احترافيًا، مع نبرة متفائلة بشأن عوائق الإصدار لدينا. يجب أن يتضمن التحليل التنافسي أيضًا روابط للمنتجات ذات الصلة في جدول.</em></td>
 </tr>
 </tbody>
 </table></div></markdown-accessiblity-table>
